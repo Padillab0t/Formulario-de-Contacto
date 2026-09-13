@@ -1,0 +1,17 @@
+C:\Users\emili\source\repos\Fornulario de contacto\Fornulario de contacto\obj\Debug\net10.0-windows\Fornulario_de_contacto.Form1.resources
+C:\Users\emili\source\repos\Fornulario de contacto\Fornulario de contacto\obj\Debug\net10.0-windows\Fornulario de contacto.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\Fornulario de contacto\Fornulario de contacto\obj\Debug\net10.0-windows\Fornulario de contacto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emili\source\repos\Fornulario de contacto\Fornulario de contacto\obj\Debug\net10.0-windows\Fornulario de contacto.AssemblyInfoInputs.cache
+C:\Users\emili\source\repos\Fornulario de contacto\Fornulario de contacto\obj\Debug\net10.0-windows\Fornulario de contacto.AssemblyInfo.cs
+C:\Users\emili\source\repos\Fornulario de contacto\Fornulario de contacto\obj\Debug\net10.0-windows\Fornulario de contacto.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\Fornulario de contacto\Fornulario de contacto\bin\Debug\net10.0-windows\Fornulario de contacto.exe
+C:\Users\emili\source\repos\Fornulario de contacto\Fornulario de contacto\bin\Debug\net10.0-windows\Fornulario de contacto.deps.json
+C:\Users\emili\source\repos\Fornulario de contacto\Fornulario de contacto\bin\Debug\net10.0-windows\Fornulario de contacto.runtimeconfig.json
+C:\Users\emili\source\repos\Fornulario de contacto\Fornulario de contacto\bin\Debug\net10.0-windows\Fornulario de contacto.dll
+C:\Users\emili\source\repos\Fornulario de contacto\Fornulario de contacto\bin\Debug\net10.0-windows\Fornulario de contacto.pdb
+C:\Users\emili\source\repos\Fornulario de contacto\Fornulario de contacto\obj\Debug\net10.0-windows\Fornulario de contacto.dll
+C:\Users\emili\source\repos\Fornulario de contacto\Fornulario de contacto\obj\Debug\net10.0-windows\refint\Fornulario de contacto.dll
+C:\Users\emili\source\repos\Fornulario de contacto\Fornulario de contacto\obj\Debug\net10.0-windows\Fornulario de contacto.pdb
+C:\Users\emili\source\repos\Fornulario de contacto\Fornulario de contacto\obj\Debug\net10.0-windows\Fornulario de contacto.genruntimeconfig.cache
+C:\Users\emili\source\repos\Fornulario de contacto\Fornulario de contacto\obj\Debug\net10.0-windows\ref\Fornulario de contacto.dll
+C:\Users\emili\source\repos\Fornulario de contacto\Fornulario de contacto\obj\Debug\net10.0-windows\Fornular.71259B15.Up2Date
